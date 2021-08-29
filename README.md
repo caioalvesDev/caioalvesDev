@@ -3,7 +3,7 @@
 - 🔭 Hoje estou desenvolvendo como front-end
 - 🌱 Estudando React
 
-<img align="center" alt="Caio-Gif" height="100" width="100" src="https://cdn.discordapp.com/attachments/863882094340734997/881561533698691112/ezgif.com-gif-maker.png">
+
 
 <div>
   <a href="https://github.com/caioalvesDev">
