@@ -1,9 +1,5 @@
 ### Olá! Eu sou o Caio Alves 👋
 
-- 🔭 Hoje estou desenvolvendo como front-end
-- 🌱 Estudando React
-
-
 
 <div>
   <a href="https://github.com/caioalvesDev">
