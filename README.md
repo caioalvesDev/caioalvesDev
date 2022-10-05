@@ -21,9 +21,3 @@
    ![Snake animation](https://github.com/caioalvesDev/caioalvesDev/blob/output/github-contribution-grid-snake.svg)
 </div>
  
-
-
-```javascript
-var s = "JavaScript syntax highlighting";
-alert(s);
-```
