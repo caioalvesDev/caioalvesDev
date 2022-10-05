@@ -1,5 +1,5 @@
 ## Olá! Eu sou o Caio Alves
-<img align="center" alt="Caio-Gif" height="100" width="100" src="https://cdn.discordapp.com/attachments/863882094340734997/881561533698691112/ezgif.com-gif-maker.png">
+<img align="center" alt="Caio-Gif" height="100" width="100" src="https://cdn.discordapp.com/attachments/863882094340734997/881561533698691112/ezgif.com-gif-maker.png">{.text-left}
 <div>
   <a href="https://github.com/caioalvesDev">
   <img height="168em" src="https://github-readme-stats.vercel.app/api?username=caioalvesDev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -22,4 +22,3 @@
 </div>
  
 
-Este é um {c:red}texto vermelho.{/c}
