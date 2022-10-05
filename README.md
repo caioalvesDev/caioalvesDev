@@ -22,4 +22,4 @@
 </div>
  
 
-<kbd>{c:yellow}Essa é uma frase com fundo escuro e texto amarelo{/c}</kbd>
+<kbd>Essa é uma frase com fundo escuro e texto amarelo</kbd>
