@@ -21,10 +21,4 @@
    ![Snake animation](https://github.com/caioalvesDev/caioalvesDev/blob/output/github-contribution-grid-snake.svg)
 </div>
  
- 
-<table border="1">
-    <tr>
-        <td>Nome</td>
-        <td>Idade</td>
-        <td>Profissão</td>
-    </tr>
+
