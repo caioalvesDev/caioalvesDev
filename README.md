@@ -21,6 +21,6 @@
    ![Snake animation](https://github.com/caioalvesDev/caioalvesDev/blob/output/github-contribution-grid-snake.svg)
 </div>
   
- 
+ {c:green}[fa=check-circle /]{/c}
 
 
