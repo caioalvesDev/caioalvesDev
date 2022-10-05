@@ -22,3 +22,9 @@
 </div>
  
  
+<table border="1">
+    <tr>
+        <td>Nome</td>
+        <td>Idade</td>
+        <td>Profissão</td>
+    </tr>
