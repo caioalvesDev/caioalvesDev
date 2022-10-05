@@ -22,3 +22,8 @@
 </div>
  
 
+Esse é um trecho de texto onde tem uma nota de rodapé aqui [^1] e outra aqui [^2]
+  
+  
+  [^1]: Essa é a nota de Rodapé 1
+[^2]: Essa é a nota de Rodapé 2
