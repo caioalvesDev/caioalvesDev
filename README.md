@@ -1,7 +1,9 @@
 
-#### Olá! me chamo Caio 👋.
+#### Olá! me chamo Caio 👋. 
 #### Um software developer apaixonado por tecnologia, buscando transformar sonhos em realidade através da programação.
-## 👤 Mais sobre mim.
+## <img align="center" alt="Caio-Gif" height="50" width="50" src="https://cdn.discordapp.com/attachments/863882094340734997/881561533698691112/ezgif.com-gif-maker.png"> Mais sobre mim.
+
+
 ```js
   const express = require('express');
   const app = express();
@@ -32,8 +34,8 @@
   <a href="https://github.com/caioalvesDev">
   <img height="168em" src="https://github-readme-stats.vercel.app/api?username=caioalvesDev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="168em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caioalvesDev&layout=compact&langs_count=7&theme=dracula"/>
+    
 </div>
-
   
 ## Vamos nos Conectar: 🌐
   
@@ -43,5 +45,7 @@
    
    ![Snake animation](https://github.com/caioalvesDev/caioalvesDev/blob/output/github-contribution-grid-snake.svg)
 </div>
+  
+  
  
 
