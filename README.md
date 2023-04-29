@@ -3,19 +3,19 @@
 #### Um software developer apaixonado por tecnologia, buscando transformar sonhos em realidade através da programação.
 ## Mais sobre mim.
 ```js
-  const express = require('express')
-  const app = express()
-  const port = 3000
+  const express = require('express');
+  const app = express();
+  const port = 3000;
 
-  const webDeveloper = {name:"Caio", stack:"Full-Stack-Developer"}
+  const webDeveloper = { name:"Caio", stack:"Full-Stack-Developer" };
 
-  app.get('/', (req, res) =>{
-    return res.send(webDeveloper)
-  }),
+  app.get('/', (req, res) => {
+    return res.send(webDeveloper);
+  });
 
-  app.listen(port, () =>{
-    console.log("Initing code...")
-  })
+  app.listen(port, () => {
+    console.log("Initing code...");
+  });
 ```
 ## Linguagens e Ferramentas:
 <div style="display: inline_block;"><br>
