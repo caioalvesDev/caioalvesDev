@@ -1,7 +1,7 @@
 
 #### Olá! me chamo Caio 👋. 
 #### Um software developer apaixonado por tecnologia, buscando transformar sonhos em realidade através da programação.
-## <img align="center" alt="Caio-Gif" height="50" width="50" src="https://cdn.discordapp.com/attachments/863882094340734997/881561533698691112/ezgif.com-gif-maker.png"> Mais sobre mim.
+## Mais sobre mim.
 
 
 ```js
